@@ -1,0 +1,68 @@
+{
+  "thirdParties": {
+    "advertiserId": "9012",
+    "agentId": "10932"
+  },
+  "advertisementType": "StandOut",
+  "jobTitle": "Exciting Senior Developer role in a great CBD location. Great $$$",
+  "searchJobTitle": "Senior Developer, .NET Core, Scala, Team Leader, Agile Methodologies",
+  "location": {
+    "id": "Melbourne",
+    "areaId": "MelbourneCBDInnerSuburbs"
+  },
+  "subclassificationId": "DevelopersProgrammers",
+  "workType": "FullTime",
+  "salary": {
+    "type": "AnnualPackage",
+    "minimum": 100000,
+    "maximum": 200000,
+    "details": "We will pay you"
+  },
+  "jobSummary": "Developer job",
+  "advertisementDetails": "Exciting, great job to develop stuff that might save the world?",
+  "contact": {
+    "name": "Bindy",
+    "phone": "0431127900",
+    "email": "bindy@auszoo.com"
+  },
+  "video": {
+    "url": "https://www.youtube.com/embed/dVDk7PXNXB8",
+    "position": "Above"
+  },
+  "applicationEmail": "asdf@asdf.com",
+  "applicationFormUrl": "http://apply.com/",
+  "endApplicationUrl": "http://applyFormLocation.com/",
+  "screenId": 20,
+  "jobReference": "JOB1234",
+  "agentJobReference": "AGENTJOB1234",
+  "template": {
+    "id": 99,
+    "items": [
+      {
+        "name": "Template Line 1",
+        "value": "Template Value 1"
+      },
+      {
+        "name": "Template Line 2",
+        "value": "Template Value 2"
+      }
+    ]
+  },
+  "standout": {
+    "logoId": 333,
+    "bullets": [
+      "Flexi Hours",
+      "Awesome Location",
+      "Free Parking"
+    ]
+  },
+  "recruiter": {
+    "fullName": "Harry Parker",
+    "email": "a@t.com",
+    "teamName": "Finance"
+  },
+  "additionalProperties": [
+    "ResidentsOnly"
+  ],
+  "creationId": "20150914-134527-00097"
+}

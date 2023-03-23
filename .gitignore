@@ -1,0 +1,7 @@
+.idea
+.Vagrant
+vendor
+.DS_Store
+composer.lock
+test.php
+phpunit.xml

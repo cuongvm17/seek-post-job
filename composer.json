@@ -1,0 +1,38 @@
+{
+  "name": "alagafonov/php-seek-job-ad-posting-api",
+  "type": "library",
+  "description": "Seek Jobs Ad Posting API Client",
+  "homepage": "https://github.com/alagafonov/php-seek-job-ad-posting-api",
+  "keywords": ["github", "gh", "api", "gist"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Subscribe-HR Team",
+      "homepage": "http://www.subscribe-hr.com.au"
+    }
+  ],
+  "require": {
+    "php": "^5.5 || ^7.0",
+    "php-http/httplug": "^1.1",
+    "php-http/discovery": "^1.1",
+    "php-http/client-common": "^1.3",
+    "php-http/curl-client": "^1.6",
+    "php-http/guzzle6-adapter": "^1.1",
+    "marc-mabe/php-enum": "^2.2",
+    "predis/predis": "^1.1"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^4.0 || ^5.5",
+    "squizlabs/php_codesniffer": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Seek\\": "lib/Seek/"
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0.x-dev"
+    }
+  }
+}
