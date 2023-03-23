@@ -1,14 +1,14 @@
 {
-  "name": "alagafonov/php-seek-job-ad-posting-api",
+  "name": "cuongvm/seek-post-job",
   "type": "library",
   "description": "Seek Jobs Ad Posting API Client",
-  "homepage": "https://github.com/alagafonov/php-seek-job-ad-posting-api",
+  "homepage": "https://github.com/cuongvm17/seek-post-job",
   "keywords": ["github", "gh", "api", "gist"],
   "license": "MIT",
   "authors": [
     {
-      "name": "Subscribe-HR Team",
-      "homepage": "http://www.subscribe-hr.com.au"
+      "name": "cuongvm",
+      "homepage": "https://github.com/cuongvm17"
     }
   ],
   "require": {
